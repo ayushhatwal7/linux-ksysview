@@ -1,1 +1,0 @@
-cmd_/home/vmayush/kernels/linux-ksysview/ksysview_core/ksysview_core.ko := ld -r -m elf_x86_64  -z max-page-size=0x200000  --build-id  -T ./scripts/module-common.lds -o /home/vmayush/kernels/linux-ksysview/ksysview_core/ksysview_core.ko /home/vmayush/kernels/linux-ksysview/ksysview_core/ksysview_core.o /home/vmayush/kernels/linux-ksysview/ksysview_core/ksysview_core.mod.o;  true

@@ -6,6 +6,8 @@
 *.mod.o
 *.symvers
 *.order
+*.cmd
+*.o.d
 .tmp_versions/
 modules.builtin
 modules.builtin.modinfo

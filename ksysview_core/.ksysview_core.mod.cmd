@@ -1,1 +1,0 @@
-cmd_/home/vmayush/kernels/linux-ksysview/ksysview_core/ksysview_core.mod := { echo  /home/vmayush/kernels/linux-ksysview/ksysview_core/ksysview_core.o; echo; } > /home/vmayush/kernels/linux-ksysview/ksysview_core/ksysview_core.mod
