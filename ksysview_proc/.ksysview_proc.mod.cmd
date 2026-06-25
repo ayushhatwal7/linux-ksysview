@@ -1,0 +1,1 @@
+cmd_/home/vmayush/kernels/linux-ksysview/ksysview_proc/ksysview_proc.mod := { echo  /home/vmayush/kernels/linux-ksysview/ksysview_proc/ksysview_proc.o; echo; } > /home/vmayush/kernels/linux-ksysview/ksysview_proc/ksysview_proc.mod

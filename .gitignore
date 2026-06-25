@@ -1,0 +1,20 @@
+# Kernel build artifacts
+*.ko
+*.o
+*.mod
+*.mod.c
+*.mod.o
+*.symvers
+*.order
+.tmp_versions/
+modules.builtin
+modules.builtin.modinfo
+Module.symvers
+modules.order
+
+# Editor artifacts
+*.swp
+*.swo
+.vscode/
+tags
+cscope.*
